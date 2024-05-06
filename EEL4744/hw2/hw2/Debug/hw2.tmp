@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\Debug\hw2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw2.map</FILE>
+  <FILE>hw2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>25</LINE></MAIN>
+  <INITIALIZE_IO><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>62</LINE></INITIALIZE_IO>
+  <INITIALIZE_TC><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>105</LINE></INITIALIZE_TC>
+  <LOOP><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>35</LINE></LOOP>
+  <RED><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>130</LINE></RED>
+  <BLUE><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>152</LINE></BLUE>
+  <GREEN><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\hw2\hw2\hw2.asm</FILE><LINE>174</LINE></GREEN>
+ </LABELS>
+</ASSEMBLER_INFO>

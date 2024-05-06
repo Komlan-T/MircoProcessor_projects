@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+  <FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\01.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\Debug\Practical1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practical1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practical1.map</FILE>
+  <FILE>Practical1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DATA><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>20</LINE></DATA>
+  <MAIN><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>27</LINE></MAIN>
+  <IO_INIT><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>64</LINE></IO_INIT>
+  <EBI_INIT><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>85</LINE></EBI_INIT>
+  <LOOP><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>46</LINE></LOOP>
+  <DONE><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>53</LINE></DONE>
+  <DELAY_57MS><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>136</LINE></DELAY_57MS>
+  <OVERFLOW><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Practical1\Practical1\main.asm</FILE><LINE>152</LINE></OVERFLOW>
+ </LABELS>
+</ASSEMBLER_INFO>

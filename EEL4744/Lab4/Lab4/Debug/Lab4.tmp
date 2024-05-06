@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.3.146\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+  <FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\sram_data_asm.txt</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\Debug\Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DATA><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>21</LINE></DATA>
+  <MAIN><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>28</LINE></MAIN>
+  <EBI_INIT><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>116</LINE></EBI_INIT>
+  <STORE><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>54</LINE></STORE>
+  <WRITE><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>68</LINE></WRITE>
+  <LOOP><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>88</LINE></LOOP>
+  <DELAY_300MS><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>167</LINE></DELAY_300MS>
+  <DONE><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>104</LINE></DONE>
+  <OVERFLOW><FILE>C:\Users\henoc\OneDrive\Desktop\EEL4744\Lab4\Lab4\lab4_3a.asm</FILE><LINE>183</LINE></OVERFLOW>
+ </LABELS>
+</ASSEMBLER_INFO>
